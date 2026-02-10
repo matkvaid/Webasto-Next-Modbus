@@ -1,0 +1,1 @@
+{\n  "domain": "webasto_unite_modbus",\n  "name": "Webasto Unite Modbus",\n  "documentation": "https://example.com/docs/webasto_unite_modbus",\n  "requirements": [],\n  "dependencies": [],\n  "codeowners": [\n    "@matkvaid"\n  ],\n  "version": "1.0.0",\n  "description": "Integration for Webasto Unite wallbox"\n}
